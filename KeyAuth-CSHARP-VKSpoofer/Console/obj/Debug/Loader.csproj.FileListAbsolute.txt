@@ -1,0 +1,8 @@
+C:\Users\gidep\Source\Repos\KeyAuth-CSHARP-VKSpoofer\Console\bin\Debug\Loader.exe.config
+C:\Users\gidep\Source\Repos\KeyAuth-CSHARP-VKSpoofer\Console\bin\Debug\Loader.exe
+C:\Users\gidep\Source\Repos\KeyAuth-CSHARP-VKSpoofer\Console\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gidep\Source\Repos\KeyAuth-CSHARP-VKSpoofer\Console\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gidep\Source\Repos\KeyAuth-CSHARP-VKSpoofer\Console\obj\Debug\Loader.csproj.AssemblyReference.cache
+C:\Users\gidep\Source\Repos\KeyAuth-CSHARP-VKSpoofer\Console\obj\Debug\Loader.csproj.CoreCompileInputs.cache
+C:\Users\gidep\Source\Repos\KeyAuth-CSHARP-VKSpoofer\Console\obj\Debug\Loader.csproj.Up2Date
+C:\Users\gidep\Source\Repos\KeyAuth-CSHARP-VKSpoofer\Console\obj\Debug\Loader.exe
